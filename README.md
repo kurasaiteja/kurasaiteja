@@ -4,8 +4,10 @@ Hi there 👋, I'm Saiteja Kura, a graduate student who is interested in Data Sc
 ## My Articles
 To share my knowledge 💡 and get feedback 💬 from expertise, I started writing about what my learnings and projects on [Medium](https://medium.com/@kurasaiteja). Reach out my profile and provide your feedback 😄
 
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=kurasaiteja&show_icons=true&line_height=20&theme=tokyonight" /></p>
+
 ## Get in touch 
-<a href="https://www.linkedin.com/in/saiteja-kura-49803b13b/"><img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="60" height="50"></a>  <a href="https://medium.com/@kurasaiteja"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="60" height="53"></a>  <a href="https://twitter.com/KURASAITEJA"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="63" height="50"></a>
+<a href="https://www.linkedin.com/in/saiteja-kura-49803b13b/"><img src="https://img.shields.io/badge/LINKEDIN-saitejakura-9cf?style=for-the-badge&logo=Linkedin" width="60" height="50"></a>  <a href="https://medium.com/@kurasaiteja"><img src="https://img.shields.io/badge/Medium-saitejakura-black?style=for-the-badge&logo=Medium" width="60" height="53"></a>  <a href="https://twitter.com/KURASAITEJA"><img src="https://i.pinimg.com/236x/ea/bd/e0/eabde01759e682e029476e999109a45b--twitter-button-twitter-twitter.jpg" width="63" height="50"></a>
 
 
 
