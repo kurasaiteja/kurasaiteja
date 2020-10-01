@@ -7,9 +7,7 @@ To share my knowledge 💡 and get feedback 💬 from expertise, I started writi
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=kurasaiteja&show_icons=true&line_height=20&theme=tokyonight" /></p>
 
 ## Get in touch 
-<a href="https://www.linkedin.com/in/saiteja-kura-49803b13b/"><img src="https://img.shields.io/badge/LINKEDIN-saitejakura-9cf?style=for-the-badge&logo=Linkedin"></a>  
-<a href="https://medium.com/@kurasaiteja"><img src="https://img.shields.io/badge/Medium-saitejakura-black?style=for-the-badge&logo=Medium"></a>  
-<a href="https://twitter.com/KURASAITEJA"><img src="https://img.shields.io/badge/LINKEDIN-kurasateja-blue?style=for-the-badge&logo=Twitter"></a>
+<a href="https://www.linkedin.com/in/saiteja-kura-49803b13b/"><img src="https://img.shields.io/badge/LINKEDIN-saitejakura-9cf?style=for-the-badge&logo=Linkedin"></a>  <a href="https://medium.com/@kurasaiteja"><img src="https://img.shields.io/badge/Medium-saitejakura-black?style=for-the-badge&logo=Medium"></a>  <a href="https://twitter.com/KURASAITEJA"><img src="https://img.shields.io/badge/LINKEDIN-kurasateja-blue?style=for-the-badge&logo=Twitter"></a>
 
 
 
